@@ -3,3 +3,4 @@ __pycache__/
 .pytest_cache/
 data/sales_1m.csv.gz
 .env
+data/
